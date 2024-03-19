@@ -7,7 +7,9 @@ Numpy의 Mathmetic을 python을 이용하여 라이브러리 없이 구현을 �
 <br>
 
 <!-- 이미지 여기에 -->
-[image](./src/image.jpg)
+<p align="center">
+ <img src = "./src/image.jpg">
+</p>
 
 <br>
 
