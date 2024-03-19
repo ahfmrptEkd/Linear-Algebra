@@ -2,7 +2,7 @@
 
 ## 개요
 
-장철원 강사님의 **"알고리즘 구현으로 배우는 선형대수 with Python"** 을 기반으로 한 study를 기록 및 저장합니다.  
+[장철원 강사](https://github.com/losskatsu)님의 **"알고리즘 구현으로 배우는 선형대수 with Python"** 을 기반으로 한 study를 기록 및 저장합니다.  
 Numpy의 Mathmetic을 python을 이용하여 라이브러리 없이 구현을 연습합니다.
 <br>
 
