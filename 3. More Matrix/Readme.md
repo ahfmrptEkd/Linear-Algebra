@@ -1,9 +1,16 @@
 # 다양한 행렬
 
 ## 목차
-1. [전치행렬](#1-스칼라)
-<!-- 2. [벡터](#2-벡터vector)
-3. [행렬](#3-행렬matrix) -->
+1. [전치행렬](#전치행렬-transposed-matrix)
+2. [대칭행렬](#대칭행렬-symmetric-matrix)
+3. [대각행렬](#대각행렬-diagonal-matrix)
+4. [항등행렬](#항등행렬--단위행렬-identity-matrix)
+5. [영행렬](#영행렬-zero-matrix)
+6. [삼각행렬](#삼각행렬-triangular-matrix)
+7. [토플리츠행렬](#토플리츠행렬-toeplitz-matrix)
+8. [이중대각행렬](#이중대각행렬-bidiagonal-matrix)
+9. [하우스홀더](#하우스홀더-householder-matrix)
+
 ---
 
 <br>
@@ -19,12 +26,11 @@ $$
 
 - 전치행렬의 성질
 
-
-$1. \quad (A^T)^T = A \\$
-$2. \quad (A+B)^T = A^T + B^T \\$
-$3. \quad (A-B)^T = A^T - B^T \\$
-$4. \quad (aA)^T = aA^T \\$
-$5. \quad (AB)^T = B^TA^T \\$
+$1. \quad (A^T)^T = A $ <br>
+$2. \quad (A+B)^T = A^T + B^T $ <br>
+$3. \quad (A-B)^T = A^T - B^T $ <br>
+$4. \quad (aA)^T = aA^T $ <br>
+$5. \quad (AB)^T = B^TA^T $ <br>
 
 <br>
 
