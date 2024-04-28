@@ -26,11 +26,11 @@ $$
 
 - 전치행렬의 성질
 
-$1. \quad (A^T)^T = A $ <br>
-$2. \quad (A+B)^T = A^T + B^T $ <br>
-$3. \quad (A-B)^T = A^T - B^T $ <br>
-$4. \quad (aA)^T = aA^T $ <br>
-$5. \quad (AB)^T = B^TA^T $ <br>
+$1. \quad (A^T)^T = A$ <br>
+$2. \quad (A+B)^T = A^T + B^T$ <br>
+$3. \quad (A-B)^T = A^T - B^T$ <br>
+$4. \quad (aA)^T = aA^T$ <br>
+$5. \quad (AB)^T = B^TA^T$ <br>
 
 <br>
 
